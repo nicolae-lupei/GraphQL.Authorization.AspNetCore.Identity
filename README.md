@@ -4,6 +4,9 @@
 
 ![.NET](https://github.com/nicolae-lupei/GraphQL.Authorization.AspNetCore.Identity/workflows/.NET/badge.svg)
 
+[![NuGet](https://img.shields.io/nuget/v/GraphQL.Authorization.AspNetCore.Identity.svg)](https://www.nuget.org/packages/GraphQL.Authorization.AspNetCore.Identity)
+[![Nuget](https://img.shields.io/nuget/dt/GraphQL.Authorization.AspNetCore.Identity)](https://www.nuget.org/packages/GraphQL.Authorization.AspNetCore.Identity)
+
 GraphQL extensions for authorization through IdentityRoles
 
 # Examples
