@@ -23,5 +23,5 @@ jobs:
     - name: Publish NuGet
       uses: brandedoutcast/publish-nuget@v2.5.5
       with:
-        PROJECT_FILE_PATH: ./src/GraphQL.Authorization.AspNetCore.Identity.csproj
+        PROJECT_FILE_PATH: ./src/GraphQL.Authorization.AspNetCore.Identity/GraphQL.Authorization.AspNetCore.Identity.csproj
         NUGET_KEY: ${{secrets.NUGET_TOKEN}}
